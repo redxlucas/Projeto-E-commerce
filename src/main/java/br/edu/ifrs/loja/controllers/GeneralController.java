@@ -19,5 +19,6 @@ public class GeneralController {
     public Boolean delete(Product product){
         
         return true;
+        
     }
 }
